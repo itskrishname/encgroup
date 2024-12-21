@@ -25,12 +25,10 @@ class Config:
                 "ALWAYS_DEPLOY_LATEST", default=False, cast=bool
             )
             self.ALLOW_ACTION = config("ALLOW_ACTION", default=True, cast=bool)
-            self.APP_ID = config("APP_ID", default=6, cast=int)
-            self.API_HASH = config(
-                "API_HASH", default="eb06d4abfb49dc3eeb1aeb98ae0f581e"
-            )
+            self.APP_ID = config("APP_ID", "24828197")
+            self.API_HASH = config("API_HASH", "d36e278e89ebeb900aeda4128d413a77")
             self.ARIA2_PORT = config("ARIA2_PORT", default=6800, cast=int)
-            self.BOT_TOKEN = config("BOT_TOKEN")
+            self.BOT_TOKEN = config("BOT_TOKEN", "7741127419:AAErq_RZ9wlZTfa3eO_lcDaOuGqL5iye59w")
             self.CACHE_DL = config("CACHE_DL", default=False, cast=bool)
             self.CAP_DECO = config("CAP_DECO", default="◉")
             self.C_LINK = config("C_LINK", default="@ANi_MiNE")
@@ -69,7 +67,7 @@ class Config:
             self.NO_BANNER = config("NO_BANNER", default=False, cast=bool)
             self.NO_TEMP_PM = config("NO_TEMP_PM", default=False, cast=bool)
             self.OVR = config("OVR", default=None)
-            self.OWNER = config("OWNER")
+            self.OWNER = config("OWNER", "8108281129")
             self.PAUSE_ON_DL_INFO = config("PODI", default=True, cast=bool)
             self.QDL_TIMEOUT = config("QBIT_DL_TIMEOUT", default=0, cast=int)
             self.QBIT_PORT = config("QBIT_PORT", default=8090, cast=int)
