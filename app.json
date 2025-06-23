@@ -26,7 +26,7 @@
         },
         "OWNER": {
             "description": "Get ur Id Of Telegram nd Paste Here.",
-            "value": ""
+            "value": "7660990923"
         },
         "LOG_CHANNEL": {
             "description": "Input Log Channel Id",
@@ -75,7 +75,7 @@
         },
         "DATABASE_URL": {
             "description": "Mongodb Database Url",
-            "value": ""
+            "value": "mongodb+srv://Krishna:krishna@cluster0.ecime.mongodb.net/"
         },
         "FFMPEG": {
             "description": "Put your FFMPEG code.",
