@@ -3,7 +3,7 @@
     "description": "A telegram bot which encodes videos.",
     "logo": "https://telegra.ph/file/75ee20ec8d8c8bba84f02.jpg",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
-    "repository": "https://github.com/nubuki-all/tg-encoder",
+    "repository": "https://github.com/itskrishname/Enc1group",
     "success_url": "https://t.me/Ani_Mine",
     "stack": "container",
     "env": {
@@ -14,11 +14,11 @@
         },
         "APP_ID": {
             "description": "You api id, from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "24828197"
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "d36e278e89ebeb900aeda4128d413a77"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
@@ -83,4 +83,4 @@
             "required": false
         }
     }
-}
+        }
