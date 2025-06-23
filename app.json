@@ -30,7 +30,7 @@
         },
         "LOG_CHANNEL": {
             "description": "Input Log Channel Id",
-            "value": "",
+            "value": "-1002546406481",
             "required": false
         },
         "WORKERS": {
@@ -40,12 +40,12 @@
         },
         "FCHANNEL": {
             "description": "Input Foward Channel Id",
-            "value": "",
+            "value": "-1002546406481",
             "required": false
         },
         "FCHANNEL_STAT": {
             "description": "Input Forward channel status message id",
-            "value": "",
+            "value": "-1002546406481",
             "required": false
         },
         "FBANNER": {
